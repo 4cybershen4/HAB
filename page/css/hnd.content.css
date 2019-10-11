@@ -80,47 +80,42 @@ span.rvts14
 }
 span.rvts15
 {
- font-size: 23pt;
- color: #333333;
-}
-span.rvts16
-{
  color: #000000;
 }
-span.rvts17
+span.rvts16
 {
  font-size: 12pt;
  font-family: 'Times New Roman', 'Times', serif;
  color: #000000;
 }
-a.rvts18, span.rvts18
+a.rvts17, span.rvts17
 {
  font-size: 11pt;
  color: #595959;
  text-decoration: underline;
 }
-span.rvts19 /* Font Style */
+span.rvts18 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #c0c0c0;
 }
-a.rvts20, span.rvts20 /* Font Style */
+a.rvts19, span.rvts19 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #6666ff;
  text-decoration: underline;
 }
+span.rvts20
+{
+ font-size: 11pt;
+}
 span.rvts21
 {
  font-size: 11pt;
 }
 span.rvts22
-{
- font-size: 11pt;
-}
-span.rvts23
 {
  font-size: 11pt;
  font-weight: bold;
@@ -157,28 +152,26 @@ p,ul,ol /* Paragraph Style */
 }
 .rvps5
 {
- text-align: left;
- text-indent: 0px;
  background: #ffffff;
- padding: 0px 0px 0px 0px;
- margin: 20px 0px 10px 0px;
 }
 .rvps6
-{
- background: #ffffff;
-}
-.rvps7
 {
  text-align: center;
  background: #ffffff;
 }
-.rvps8
+.rvps7
 {
  background: #ffffff;
  margin: 0px 0px 21px 0px;
 }
+.rvps8
+{
+ background: #ffffff;
+ margin: 0px 0px 21px 48px;
+}
 .rvps9
 {
+ text-indent: 48px;
  background: #ffffff;
  margin: 0px 0px 21px 48px;
 }
@@ -186,15 +179,9 @@ p,ul,ol /* Paragraph Style */
 {
  text-indent: 48px;
  background: #ffffff;
- margin: 0px 0px 21px 48px;
-}
-.rvps11
-{
- text-indent: 48px;
- background: #ffffff;
  margin: 0px 0px 21px 0px;
 }
-.rvps12 /* Paragraph Style */
+.rvps11 /* Paragraph Style */
 {
  text-align: center;
  border-color: #c0c0c0;
@@ -205,12 +192,12 @@ p,ul,ol /* Paragraph Style */
  padding: 2px 0px 2px 0px;
  margin: 7px 0px 7px 0px;
 }
-.rvps13
+.rvps12
 {
  line-height: 17px;
  margin: 0px 0px 11px 0px;
 }
-.rvps14
+.rvps13
 {
  line-height: 17px;
  margin: 0px 0px 11px 48px;
